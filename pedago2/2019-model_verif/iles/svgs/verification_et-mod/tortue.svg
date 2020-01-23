@@ -1,1 +1,294 @@
-<svg title="graph" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><style>circle {cursor: pointer;stroke-width: 1.5px;}text {font: 10px arial;}path {stroke: DimGrey;stroke-width: 1.5px;}</style><g><g class="links"><line stroke="hsl(25, 25%, 44%)" stroke-width="15px" x1="360.3911213455304" y1="201.90931896651486" x2="408.84158727147445" y2="272.36861931489193"></line><line stroke="hsl(25, 25%, 44%)" stroke-width="15px" x1="360.3911213455304" y1="201.90931896651486" x2="447.5813707622258" y2="199.00152654988352"></line><line stroke="hsl(25, 25%, 44%)" stroke-width="15px" x1="467.1780929683359" y1="400.44337177074857" x2="375.9324465240608" y2="406.44743352121236"></line><line stroke="hsl(25, 25%, 44%)" stroke-width="15px" x1="303.57415043925033" y1="262.33714243216536" x2="360.3911213455304" y2="201.90931896651486"></line><line stroke="hsl(25, 25%, 44%)" stroke-width="15px" x1="301.3846472033074" y1="343.1803885731926" x2="303.57415043925033" y2="262.33714243216536"></line><line stroke="hsl(25, 25%, 44%)" stroke-width="15px" x1="375.9324465240608" y1="406.44743352121236" x2="431.74873580179354" y2="343.28751449478915"></line><line stroke="hsl(25, 25%, 44%)" stroke-width="15px" x1="447.5813707622258" y1="199.00152654988352" x2="503.3456082035801" y2="271.00273450827893"></line></g><g class="nodes"><g style="transform-origin: center center 0px;" transform="translate(301.3846472033074,343.1803885731926)"><image xlink:href="../images/plage.svg" x="-40" y="-40" height="80" width="80" transform="scale(1,1)"></image></g><g style="transform-origin: center center 0px;" transform="translate(303.57415043925033,262.33714243216536)"><image xlink:href="../images/palmier.svg" x="-40" y="-40" height="80" width="80" transform="scale(-1,1)"></image></g><g style="transform-origin: center center 0px;" transform="translate(360.3911213455304,201.90931896651486)"><image xlink:href="../images/cabane_peche.svg" x="-40" y="-40" height="80" width="80" transform="scale(1,1)"></image></g><g style="transform-origin: center center 0px;" transform="translate(447.5813707622258,199.00152654988352)"><image xlink:href="../images/volcan.svg" x="-40" y="-40" height="80" width="80" transform="scale(1,1)"></image></g><g style="transform-origin: center center 0px;" transform="translate(503.3456082035801,271.00273450827893)"><image xlink:href="../images/grotte.svg" x="-40" y="-40" height="80" width="80" transform="scale(-1,1)"></image></g><g style="transform-origin: center center 0px;" transform="translate(408.84158727147445,272.36861931489193)"><image xlink:href="../images/lac.svg" x="-40" y="-40" height="80" width="80" transform="scale(1,1)"></image></g><g style="transform-origin: center center 0px;" transform="translate(467.1780929683359,400.44337177074857)"><image xlink:href="../images/crique.svg" x="-40" y="-40" height="80" width="80" transform="scale(-1,1)"></image></g><g style="transform-origin: center center 0px;" transform="translate(375.9324465240608,406.44743352121236)"><image xlink:href="../images/sapin.svg" x="-40" y="-40" height="80" width="80" transform="scale(1,1)"></image></g><g style="transform-origin: center center 0px;" transform="translate(431.74873580179354,343.28751449478915)"><image xlink:href="../images/riviere.svg" x="-40" y="-40" height="80" width="80" transform="scale(1,1)"></image></g></g><g class="labels"><text class="link-label" font-family="Arial, Helvetica, sans-serif" fill="White" style="font: bold 14px Arial;" dy=".35em" text-anchor="middle" x="384.6163543085024" y="237.1389691407034"></text><text class="link-label" font-family="Arial, Helvetica, sans-serif" fill="White" style="font: bold 14px Arial;" dy=".35em" text-anchor="middle" x="403.98624605387806" y="200.45542275819918"></text><text class="link-label" font-family="Arial, Helvetica, sans-serif" fill="White" style="font: bold 14px Arial;" dy=".35em" text-anchor="middle" x="421.55526974619835" y="403.4454026459805"></text><text class="link-label" font-family="Arial, Helvetica, sans-serif" fill="White" style="font: bold 14px Arial;" dy=".35em" text-anchor="middle" x="331.98263589239036" y="232.12323069934013"></text><text class="link-label" font-family="Arial, Helvetica, sans-serif" fill="White" style="font: bold 14px Arial;" dy=".35em" text-anchor="middle" x="302.4793988212789" y="302.758765502679"></text><text class="link-label" font-family="Arial, Helvetica, sans-serif" fill="White" style="font: bold 14px Arial;" dy=".35em" text-anchor="middle" x="403.8405911629272" y="374.8674740080007"></text><text class="link-label" font-family="Arial, Helvetica, sans-serif" fill="White" style="font: bold 14px Arial;" dy=".35em" text-anchor="middle" x="475.46348948290296" y="235.00213052908123"></text></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   title="graph"
+   version="1.1"
+   id="svg5220"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="tortue.svg"
+   width="281.96097"
+   height="303.03378">
+  <metadata
+     id="metadata5300">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5298" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1303"
+     inkscape:window-height="744"
+     id="namedview5296"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.668772"
+     inkscape:cx="174.92427"
+     inkscape:cy="120.06232"
+     inkscape:window-x="63"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5220" />
+  <style
+     id="style5222">circle {cursor: pointer;stroke-width: 1.5px;}text {font: 10px arial;}path {stroke: DimGrey;stroke-width: 1.5px;}</style>
+  <g
+     id="g5224"
+     transform="translate(-261.38465,-159.00153)">
+    <g
+       class="links"
+       id="g5226">
+      <line
+         x1="360.39111"
+         y1="201.90932"
+         x2="408.84158"
+         y2="272.36862"
+         id="line5228"
+         style="stroke:#8c6b54;stroke-width:15px" />
+      <line
+         x1="360.39111"
+         y1="201.90932"
+         x2="447.58136"
+         y2="199.00153"
+         id="line5230"
+         style="stroke:#8c6b54;stroke-width:15px" />
+      <line
+         x1="467.1781"
+         y1="400.44336"
+         x2="375.93243"
+         y2="406.44745"
+         id="line5232"
+         style="stroke:#8c6b54;stroke-width:15px" />
+      <line
+         x1="303.57416"
+         y1="262.33713"
+         x2="360.39111"
+         y2="201.90932"
+         id="line5234"
+         style="stroke:#8c6b54;stroke-width:15px" />
+      <line
+         x1="301.38464"
+         y1="343.18039"
+         x2="303.57416"
+         y2="262.33713"
+         id="line5236"
+         style="stroke:#8c6b54;stroke-width:15px" />
+      <line
+         x1="375.93243"
+         y1="406.44745"
+         x2="431.74875"
+         y2="343.28751"
+         id="line5238"
+         style="stroke:#8c6b54;stroke-width:15px" />
+      <line
+         x1="447.58136"
+         y1="199.00153"
+         x2="503.34561"
+         y2="271.00275"
+         id="line5240"
+         style="stroke:#8c6b54;stroke-width:15px" />
+    </g>
+    <g
+       class="nodes"
+       id="g5242">
+      <g
+         transform="translate(301.38465,343.18039)"
+         id="g5244">
+        <image
+           sodipodi:absref="/home/julie/Documents/Cours/M2/pedago/pedago-rennes/pedago2/2019-model_verif/iles/svgs/verification_et-mod/../images/plage.svg"
+           xlink:href="../images/plage.svg"
+           id="image5246"
+           width="80"
+           height="80"
+           y="-40"
+           x="-40" />
+      </g>
+      <g
+         transform="translate(303.57415,262.33714)"
+         id="g5248">
+        <image
+           sodipodi:absref="/home/julie/Documents/Cours/M2/pedago/pedago-rennes/pedago2/2019-model_verif/iles/svgs/verification_et-mod/../images/palmier.svg"
+           xlink:href="../images/palmier.svg"
+           id="image5250"
+           transform="scale(-1,1)"
+           width="80"
+           height="80"
+           y="-40"
+           x="-40" />
+      </g>
+      <g
+         transform="translate(360.39112,201.90932)"
+         id="g5252">
+        <image
+           sodipodi:absref="/home/julie/Documents/Cours/M2/pedago/pedago-rennes/pedago2/2019-model_verif/iles/svgs/verification_et-mod/../images/cabane_peche.svg"
+           xlink:href="../images/cabane_peche.svg"
+           id="image5254"
+           width="80"
+           height="80"
+           y="-40"
+           x="-40" />
+      </g>
+      <g
+         transform="translate(447.58137,199.00153)"
+         id="g5256">
+        <image
+           sodipodi:absref="/home/julie/Documents/Cours/M2/pedago/pedago-rennes/pedago2/2019-model_verif/iles/svgs/verification_et-mod/../images/volcan.svg"
+           xlink:href="../images/volcan.svg"
+           id="image5258"
+           width="80"
+           height="80"
+           y="-40"
+           x="-40" />
+      </g>
+      <g
+         transform="translate(503.34561,271.00273)"
+         id="g5260">
+        <image
+           sodipodi:absref="/home/julie/Documents/Cours/M2/pedago/pedago-rennes/pedago2/2019-model_verif/iles/svgs/verification_et-mod/../images/grotte.svg"
+           xlink:href="../images/grotte.svg"
+           id="image5262"
+           transform="scale(-1,1)"
+           width="80"
+           height="80"
+           y="-40"
+           x="-40" />
+      </g>
+      <g
+         transform="translate(408.84159,272.36862)"
+         id="g5264">
+        <image
+           sodipodi:absref="/home/julie/Documents/Cours/M2/pedago/pedago-rennes/pedago2/2019-model_verif/iles/svgs/verification_et-mod/../images/lac.svg"
+           xlink:href="../images/lac.svg"
+           id="image5266"
+           width="80"
+           height="80"
+           y="-40"
+           x="-40" />
+      </g>
+      <g
+         transform="translate(467.17809,400.44337)"
+         id="g5268">
+        <image
+           sodipodi:absref="/home/julie/Documents/Cours/M2/pedago/pedago-rennes/pedago2/2019-model_verif/iles/svgs/verification_et-mod/../images/crique.svg"
+           xlink:href="../images/crique.svg"
+           id="image5270"
+           transform="scale(-1,1)"
+           width="80"
+           height="80"
+           y="-40"
+           x="-40" />
+      </g>
+      <g
+         transform="translate(375.93245,406.44743)"
+         id="g5272">
+        <image
+           sodipodi:absref="/home/julie/Documents/Cours/M2/pedago/pedago-rennes/pedago2/2019-model_verif/iles/svgs/verification_et-mod/../images/sapin.svg"
+           xlink:href="../images/sapin.svg"
+           id="image5274"
+           width="80"
+           height="80"
+           y="-40"
+           x="-40" />
+      </g>
+      <g
+         transform="translate(431.74874,343.28751)"
+         id="g5276">
+        <image
+           sodipodi:absref="/home/julie/Documents/Cours/M2/pedago/pedago-rennes/pedago2/2019-model_verif/iles/svgs/verification_et-mod/../images/riviere.svg"
+           xlink:href="../images/riviere.svg"
+           id="image5278"
+           width="80"
+           height="80"
+           y="-40"
+           x="-40" />
+      </g>
+    </g>
+    <g
+       class="labels"
+       id="g5280">
+      <text
+         class="link-label"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:normal;font-family:Arial;text-anchor:middle;fill:#ffffff"
+         dy="237.13896"
+         x="384.61636"
+         y="237.13896"
+         id="text5282" />
+      <text
+         class="link-label"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:normal;font-family:Arial;text-anchor:middle;fill:#ffffff"
+         dy="200.45543"
+         x="403.98624"
+         y="200.45543"
+         id="text5284" />
+      <text
+         class="link-label"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:normal;font-family:Arial;text-anchor:middle;fill:#ffffff"
+         dy="403.4454"
+         x="421.55527"
+         y="403.4454"
+         id="text5286" />
+      <text
+         class="link-label"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:normal;font-family:Arial;text-anchor:middle;fill:#ffffff"
+         dy="232.12323"
+         x="331.98264"
+         y="232.12323"
+         id="text5288" />
+      <text
+         class="link-label"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:normal;font-family:Arial;text-anchor:middle;fill:#ffffff"
+         dy="302.75876"
+         x="302.4794"
+         y="302.75876"
+         id="text5290" />
+      <text
+         class="link-label"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:normal;font-family:Arial;text-anchor:middle;fill:#ffffff"
+         dy="374.86746"
+         x="403.84058"
+         y="374.86746"
+         id="text5292" />
+      <text
+         class="link-label"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:normal;font-family:Arial;text-anchor:middle;fill:#ffffff"
+         dy="235.00214"
+         x="475.4635"
+         y="235.00214"
+         id="text5294" />
+    </g>
+  </g>
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot5302"
+     style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="matrix(1,0,0,0.89676133,52.54237,49.90401)"><flowRegion
+       id="flowRegion5304"><rect
+         id="rect5306"
+         width="205.93221"
+         height="19.915255"
+         x="30.508474"
+         y="267.1069" /></flowRegion><flowPara
+       id="flowPara5308">Ile de la Tortue</flowPara></flowRoot></svg>
