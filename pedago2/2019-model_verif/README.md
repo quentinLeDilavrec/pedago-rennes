@@ -85,6 +85,7 @@ choisir entre les deux dernières îles.
 <a name="chemin"></a> 
 
 Voici les descriptions des îles qu'il faudra donner au fur et à mesure.
+(Une version sous forme d'images est disponible dans ![La fiche matériel pour l'activité de modélisation](fiche_materiel_modelisation.pdf))
 
 #### Île Scorpion
 
@@ -241,6 +242,8 @@ Voici les descriptions des îles qu'il faudra donner au fur et à mesure.
 
 *C'est dans cette dernière île que se trouve le trésor.*
 
+
+
 Déroulement 
 -----------
 
@@ -288,15 +291,12 @@ ces cas-là, trois stratégies successives pourront être mises en place:
 3.  Donner au participant des images prédécoupées des différents
     endroits de l'île, une feuille en papier, de la colle et un crayon
     et lui dire "Montre-le moi\".
+	(![Fiche d'aide modélisation](AideMode.pdf))
 
 4. S'ils ne pensent pas à tracer un trait
     entre les parties de l'île qui sont reliées entre elles d'après le
     texte, on pourra leur distribuer une carte de l'île (fournies dans
 	le document "fiche élève") comme celle ci-dessous:
-	
-![Exemple de carte d'île (île de la fortune)](iles/svgs/modelisation/ile_fortune2.svg)
-<a name="fortune_mode"></a> 
-
 
 Quand certains participants auront trouvé comment faire, une mise en
 commun permettra de montrer à tout le monde comment faire un schéma à
@@ -393,7 +393,8 @@ Matériel
 --------
 
 Les différentes îles seront distribuées sous forme de graphe (carte de
-l'île).
+l'île). Les images associées sont dans
+![la fiche matériel pour l'acitivité de vérification](fiche_materiel_verification.pdf)
 
 Voici les différentes propriétés à vérifier (c'est à dire les
 différentes phrases présentes dans le journal du pirate).
@@ -690,7 +691,8 @@ On a 3 jeux de propriétés / formules,
 en français et en notation logique;
 et un jeu d'îles sur lesquels on pourra vérifier
 certaines des formules.
-Les îles seront fournies sous forme de cartes.
+Les îles seront fournies sous forme de cartes
+(![fiche matériel pour l'activité logique](fiche_materiel_logique.pdf)).
 
 Les différents symboles qui apparaîtront dans les formules sont
 
