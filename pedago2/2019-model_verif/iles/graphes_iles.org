@@ -52,7 +52,6 @@ Cabane du pêcheur -1h-> Rivière -4h-> Volcan
 Crique -2h-> Forêt de conifères
 Crique -1h-> Cabane du chasseur
 
-
 ** Ile de la tortue
 Plage -> Forêt de Palmiers -> Rivière -> Cabane du pêcheur -> Volcan -> Grotte
 Cabane du pêcheur -> Lac
