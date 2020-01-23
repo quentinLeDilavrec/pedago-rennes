@@ -11,10 +11,10 @@
    title="graph"
    version="1.1"
    id="svg4763"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (f8dce91, 2019-08-02)"
    sodipodi:docname="scorpion.svg"
    width="99.511513"
-   height="115.3597">
+   height="113.12092">
   <metadata
      id="metadata4831">
     <rdf:RDF>
@@ -38,15 +38,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1303"
-     inkscape:window-height="744"
+     inkscape:window-width="1296"
+     inkscape:window-height="704"
      id="namedview4827"
      showgrid="false"
      inkscape:zoom="2.36"
      inkscape:cx="166.30581"
-     inkscape:cy="10.187374"
-     inkscape:window-x="63"
-     inkscape:window-y="24"
+     inkscape:cy="7.9485853"
+     inkscape:window-x="70"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4763"
      fit-margin-top="0"
@@ -111,88 +111,88 @@
          transform="translate(389.0289,203.57783)"
          id="g4785">
         <image
-           sodipodi:absref="/home/julie/Documents/Cours/M2/pedago/pedago-rennes/pedago2/2019-model_verif/iles/svgs/verification_et-mod/../images/plage.svg"
+           sodipodi:absref="/home/santiago/ENS/m2/pedago2/fork_pedago_rennes/pedago2/2019-model_verif/iles/svgs/verification_et-mod/../images/plage.svg"
            xlink:href="../images/plage.svg"
-           id="image4787"
-           transform="scale(-1,1)"
-           width="80"
-           height="80"
+           x="-40"
            y="-40"
-           x="-40" />
+           height="80"
+           width="80"
+           transform="scale(-1,1)"
+           id="image4787" />
       </g>
       <g
          transform="translate(472.01074,234.38875)"
          id="g4789">
         <image
-           sodipodi:absref="/home/julie/Documents/Cours/M2/pedago/pedago-rennes/pedago2/2019-model_verif/iles/svgs/verification_et-mod/../images/palmier.svg"
+           sodipodi:absref="/home/santiago/ENS/m2/pedago2/fork_pedago_rennes/pedago2/2019-model_verif/iles/svgs/verification_et-mod/../images/palmier.svg"
            xlink:href="../images/palmier.svg"
-           id="image4791"
-           width="80"
-           height="80"
+           x="-40"
            y="-40"
-           x="-40" />
+           height="80"
+           width="80"
+           id="image4791" />
       </g>
       <g
          transform="translate(429.7627,302.80578)"
          id="g4793">
         <image
-           sodipodi:absref="/home/julie/Documents/Cours/M2/pedago/pedago-rennes/pedago2/2019-model_verif/iles/svgs/verification_et-mod/../images/volcan.svg"
+           sodipodi:absref="/home/santiago/ENS/m2/pedago2/fork_pedago_rennes/pedago2/2019-model_verif/iles/svgs/verification_et-mod/../images/volcan.svg"
            xlink:href="../images/volcan.svg"
-           id="image4795"
-           width="80"
-           height="80"
+           x="-40"
            y="-40"
-           x="-40" />
+           height="80"
+           width="80"
+           id="image4795" />
       </g>
       <g
          transform="translate(478.63652,364.13525)"
          id="g4797">
         <image
-           sodipodi:absref="/home/julie/Documents/Cours/M2/pedago/pedago-rennes/pedago2/2019-model_verif/iles/svgs/verification_et-mod/../images/grotte.svg"
+           sodipodi:absref="/home/santiago/ENS/m2/pedago2/fork_pedago_rennes/pedago2/2019-model_verif/iles/svgs/verification_et-mod/../images/grotte.svg"
            xlink:href="../images/grotte.svg"
-           id="image4799"
-           transform="scale(-1,1)"
-           width="80"
-           height="80"
+           x="-40"
            y="-40"
-           x="-40" />
+           height="80"
+           width="80"
+           transform="scale(-1,1)"
+           id="image4799" />
       </g>
       <g
          transform="translate(380.33463,373.60626)"
          id="g4801">
         <image
-           sodipodi:absref="/home/julie/Documents/Cours/M2/pedago/pedago-rennes/pedago2/2019-model_verif/iles/svgs/verification_et-mod/../images/riviere.svg"
+           sodipodi:absref="/home/santiago/ENS/m2/pedago2/fork_pedago_rennes/pedago2/2019-model_verif/iles/svgs/verification_et-mod/../images/riviere.svg"
            xlink:href="../images/riviere.svg"
-           id="image4803"
-           transform="scale(-1,1)"
-           width="80"
-           height="80"
+           x="-40"
            y="-40"
-           x="-40" />
+           height="80"
+           width="80"
+           transform="scale(-1,1)"
+           id="image4803" />
       </g>
       <g
          transform="translate(303.1928,337.85613)"
          id="g4805">
         <image
-           sodipodi:absref="/home/julie/Documents/Cours/M2/pedago/pedago-rennes/pedago2/2019-model_verif/iles/svgs/verification_et-mod/../images/lac.svg"
+           sodipodi:absref="/home/santiago/ENS/m2/pedago2/fork_pedago_rennes/pedago2/2019-model_verif/iles/svgs/verification_et-mod/../images/lac.svg"
            xlink:href="../images/lac.svg"
-           id="image4807"
-           width="80"
-           height="80"
+           x="-40"
            y="-40"
-           x="-40" />
+           height="80"
+           width="80"
+           id="image4807" />
       </g>
       <g
          transform="translate(347.06165,283.65846)"
          id="g4809">
         <image
-           sodipodi:absref="/home/julie/Documents/Cours/M2/pedago/pedago-rennes/pedago2/2019-model_verif/iles/svgs/verification_et-mod/../images/cabane_peche.svg"
+           sodipodi:absref="/home/santiago/ENS/m2/pedago2/fork_pedago_rennes/pedago2/2019-model_verif/iles/svgs/verification_et-mod/../images/cabane_peche.svg"
            xlink:href="../images/cabane_peche.svg"
-           id="image4811"
-           width="80"
-           height="80"
+           x="-40"
            y="-40"
-           x="-40" />
+           height="80"
+           width="80"
+           id="image4811" />
       </g>
     </g>
     <g
@@ -245,8 +245,8 @@
   <flowRoot
      xml:space="preserve"
      id="flowRoot5945"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     transform="translate(-1.2711905,-5.9322029)"><flowRegion
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="translate(13.135585,-2.1186431)"><flowRegion
        id="flowRegion5947"><rect
          id="rect5949"
          width="134.32204"
@@ -254,4 +254,5 @@
          x="2.118644"
          y="103.41827"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial" /></flowRegion><flowPara
-       id="flowPara5951">Ile du scorpion</flowPara></flowRoot></svg>
+       id="flowPara5951"
+       style="font-size:10.66666698px;line-height:1.25">Ile du Scorpion</flowPara></flowRoot></svg>
