@@ -1,1 +1,282 @@
-<svg title="graph" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><style>circle {cursor: pointer;stroke-width: 1.5px;}text {font: 10px arial;}path {stroke: DimGrey;stroke-width: 1.5px;}</style><g transform="translate(-115.45909117173437,-88.03060210772063) scale(0.6830201283771971)"><g class="links"><line stroke="hsl(25, 25%, 44%)" stroke-width="15px" x1="446.80610431342683" y1="251.18557049555764" x2="413.1854270948612" y2="181.98906366602867"></line><line stroke="hsl(25, 25%, 44%)" stroke-width="15px" x1="392.36568223625284" y1="317.7569522174993" x2="443.46525456305636" y2="388.5366591471844"></line><line stroke="hsl(25, 25%, 44%)" stroke-width="15px" x1="351.7178976751754" y1="240.40063864238138" x2="446.80610431342683" y2="251.18557049555764"></line><line stroke="hsl(25, 25%, 44%)" stroke-width="15px" x1="351.7178976751754" y1="240.40063864238138" x2="392.36568223625284" y2="317.7569522174993"></line><line stroke="hsl(25, 25%, 44%)" stroke-width="15px" x1="295.52789737159435" y1="302.2758762880881" x2="351.7178976751754" y2="240.40063864238138"></line><line stroke="hsl(25, 25%, 44%)" stroke-width="15px" x1="443.46525456305636" y1="388.5366591471844" x2="503.0523486468445" y2="323.5110136353283"></line><line stroke="hsl(25, 25%, 44%)" stroke-width="15px" x1="443.46525456305636" y1="388.5366591471844" x2="353.87322627343616" y2="394.35726187310627"></line></g><g class="nodes"><g style="transform-origin: center center 0px;" transform="translate(295.52789737159435,302.2758762880881)"><image xlink:href="../images/plage.svg" x="-40" y="-40" height="80" width="80" transform="scale(-1,1)"></image></g><g style="transform-origin: center center 0px;" transform="translate(351.7178976751754,240.40063864238138)"><image xlink:href="../images/palmier.svg" x="-40" y="-40" height="80" width="80" transform="scale(1,1)"></image></g><g style="transform-origin: center center 0px;" transform="translate(392.36568223625284,317.7569522174993)"><image xlink:href="../images/lac.svg" x="-40" y="-40" height="80" width="80" transform="scale(-1,1)"></image></g><g style="transform-origin: center center 0px;" transform="translate(443.46525456305636,388.5366591471844)"><image xlink:href="../images/volcan.svg" x="-40" y="-40" height="80" width="80" transform="scale(1,1)"></image></g><g style="transform-origin: center center 0px;" transform="translate(503.0523486468445,323.5110136353283)"><image xlink:href="../images/grotte.svg" x="-40" y="-40" height="80" width="80" transform="scale(1,1)"></image></g><g style="transform-origin: center center 0px;" transform="translate(353.87322627343616,394.35726187310627)"><image xlink:href="../images/riviere.svg" x="-40" y="-40" height="80" width="80" transform="scale(1,1)"></image></g><g style="transform-origin: center center 0px;" transform="translate(446.80610431342683,251.18557049555764)"><image xlink:href="../images/cabane_peche.svg" x="-40" y="-40" height="80" width="80" transform="scale(1,1)"></image></g><g style="transform-origin: center center 0px;" transform="translate(413.1854270948612,181.98906366602867)"><image xlink:href="../images/sapin.svg" x="-40" y="-40" height="80" width="80" transform="scale(-1,1)"></image></g></g><g class="labels"><text class="link-label" font-family="Arial, Helvetica, sans-serif" fill="White" style="font: bold 14px Arial;" dy=".35em" text-anchor="middle" x="429.995765704144" y="216.58731708079316"></text><text class="link-label" font-family="Arial, Helvetica, sans-serif" fill="White" style="font: bold 14px Arial;" dy=".35em" text-anchor="middle" x="417.9154683996546" y="353.1468056823419"></text><text class="link-label" font-family="Arial, Helvetica, sans-serif" fill="White" style="font: bold 14px Arial;" dy=".35em" text-anchor="middle" x="399.2620009943011" y="245.7931045689695"></text><text class="link-label" font-family="Arial, Helvetica, sans-serif" fill="White" style="font: bold 14px Arial;" dy=".35em" text-anchor="middle" x="372.0417899557141" y="279.0787954299403"></text><text class="link-label" font-family="Arial, Helvetica, sans-serif" fill="White" style="font: bold 14px Arial;" dy=".35em" text-anchor="middle" x="323.62289752338484" y="271.33825746523473"></text><text class="link-label" font-family="Arial, Helvetica, sans-serif" fill="White" style="font: bold 14px Arial;" dy=".35em" text-anchor="middle" x="473.25880160495046" y="356.0238363912564"></text><text class="link-label" font-family="Arial, Helvetica, sans-serif" fill="White" style="font: bold 14px Arial;" dy=".35em" text-anchor="middle" x="398.66924041824626" y="391.44696051014535"></text></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   title="graph"
+   version="1.1"
+   id="svg328"
+   sodipodi:docname="ile_fortune.svg"
+   width="196.38499"
+   height="218.74783"
+   inkscape:version="0.92.4 (f8dce91, 2019-08-02)">
+  <metadata
+     id="metadata334">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs332" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1296"
+     inkscape:window-height="704"
+     id="namedview330"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="2.36"
+     inkscape:cx="75.674157"
+     inkscape:cy="59.054556"
+     inkscape:window-x="70"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg328" />
+  <style
+     id="style258">circle {cursor: pointer;stroke-width: 1.5px;}text {font: 10px arial;}path {stroke: DimGrey;stroke-width: 1.5px;}</style>
+  <g
+     transform="matrix(0.68302013,0,0,0.68302013,-174.5307,-96.981388)"
+     id="g326">
+    <g
+       class="links"
+       id="g274">
+      <line
+         x1="446.80609"
+         y1="251.18558"
+         x2="413.18542"
+         y2="181.98906"
+         id="line260"
+         style="stroke:#8c6b54;stroke-width:15px" />
+      <line
+         x1="392.36569"
+         y1="317.75696"
+         x2="443.46524"
+         y2="388.53665"
+         id="line262"
+         style="stroke:#8c6b54;stroke-width:15px" />
+      <line
+         x1="351.7179"
+         y1="240.40063"
+         x2="446.80609"
+         y2="251.18558"
+         id="line264"
+         style="stroke:#8c6b54;stroke-width:15px" />
+      <line
+         x1="351.7179"
+         y1="240.40063"
+         x2="392.36569"
+         y2="317.75696"
+         id="line266"
+         style="stroke:#8c6b54;stroke-width:15px" />
+      <line
+         x1="295.52789"
+         y1="302.27588"
+         x2="351.7179"
+         y2="240.40063"
+         id="line268"
+         style="stroke:#8c6b54;stroke-width:15px" />
+      <line
+         x1="443.46524"
+         y1="388.53665"
+         x2="503.05234"
+         y2="323.51102"
+         id="line270"
+         style="stroke:#8c6b54;stroke-width:15px" />
+      <line
+         x1="443.46524"
+         y1="388.53665"
+         x2="353.87323"
+         y2="394.35727"
+         id="line272"
+         style="stroke:#8c6b54;stroke-width:15px" />
+    </g>
+    <g
+       class="nodes"
+       id="g308">
+      <g
+         transform="translate(295.5279,302.27588)"
+         id="g278">
+        <image
+           sodipodi:absref="/home/santiago/ENS/m2/pedago2/fork_pedago_rennes/pedago2/2019-model_verif/iles/svgs/modelisation/../images/plage.svg"
+           xlink:href="../images/plage.svg"
+           id="image276"
+           transform="scale(-1,1)"
+           width="80"
+           height="80"
+           y="-40"
+           x="-40" />
+      </g>
+      <g
+         transform="translate(351.7179,240.40064)"
+         id="g282">
+        <image
+           sodipodi:absref="/home/santiago/ENS/m2/pedago2/fork_pedago_rennes/pedago2/2019-model_verif/iles/svgs/modelisation/../images/palmier.svg"
+           xlink:href="../images/palmier.svg"
+           id="image280"
+           width="80"
+           height="80"
+           y="-40"
+           x="-40" />
+      </g>
+      <g
+         transform="translate(392.36568,317.75695)"
+         id="g286">
+        <image
+           sodipodi:absref="/home/santiago/ENS/m2/pedago2/fork_pedago_rennes/pedago2/2019-model_verif/iles/svgs/modelisation/../images/lac.svg"
+           xlink:href="../images/lac.svg"
+           id="image284"
+           transform="scale(-1,1)"
+           width="80"
+           height="80"
+           y="-40"
+           x="-40" />
+      </g>
+      <g
+         transform="translate(443.46525,388.53666)"
+         id="g290">
+        <image
+           sodipodi:absref="/home/santiago/ENS/m2/pedago2/fork_pedago_rennes/pedago2/2019-model_verif/iles/svgs/modelisation/../images/volcan.svg"
+           xlink:href="../images/volcan.svg"
+           id="image288"
+           width="80"
+           height="80"
+           y="-40"
+           x="-40" />
+      </g>
+      <g
+         transform="translate(503.05235,323.51101)"
+         id="g294">
+        <image
+           sodipodi:absref="/home/santiago/ENS/m2/pedago2/fork_pedago_rennes/pedago2/2019-model_verif/iles/svgs/modelisation/../images/grotte.svg"
+           xlink:href="../images/grotte.svg"
+           id="image292"
+           width="80"
+           height="80"
+           y="-40"
+           x="-40" />
+      </g>
+      <g
+         transform="translate(353.87323,394.35726)"
+         id="g298">
+        <image
+           sodipodi:absref="/home/santiago/ENS/m2/pedago2/fork_pedago_rennes/pedago2/2019-model_verif/iles/svgs/modelisation/../images/riviere.svg"
+           xlink:href="../images/riviere.svg"
+           id="image296"
+           width="80"
+           height="80"
+           y="-40"
+           x="-40" />
+      </g>
+      <g
+         transform="translate(446.8061,251.18557)"
+         id="g302">
+        <image
+           sodipodi:absref="/home/santiago/ENS/m2/pedago2/fork_pedago_rennes/pedago2/2019-model_verif/iles/svgs/modelisation/../images/cabane_peche.svg"
+           xlink:href="../images/cabane_peche.svg"
+           id="image300"
+           width="80"
+           height="80"
+           y="-40"
+           x="-40" />
+      </g>
+      <g
+         transform="translate(413.18543,181.98906)"
+         id="g306">
+        <image
+           sodipodi:absref="/home/santiago/ENS/m2/pedago2/fork_pedago_rennes/pedago2/2019-model_verif/iles/svgs/modelisation/../images/sapin.svg"
+           xlink:href="../images/sapin.svg"
+           id="image304"
+           transform="scale(-1,1)"
+           width="80"
+           height="80"
+           y="-40"
+           x="-40" />
+      </g>
+    </g>
+    <g
+       class="labels"
+       id="g324">
+      <text
+         class="link-label"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:normal;font-family:Arial;text-anchor:middle;fill:#ffffff"
+         dy="0.34999999em"
+         x="429.99576"
+         y="216.58731"
+         id="text310" />
+      <text
+         class="link-label"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:normal;font-family:Arial;text-anchor:middle;fill:#ffffff"
+         dy="0.34999999em"
+         x="417.91547"
+         y="353.14682"
+         id="text312" />
+      <text
+         class="link-label"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:normal;font-family:Arial;text-anchor:middle;fill:#ffffff"
+         dy="0.34999999em"
+         x="399.26199"
+         y="245.79311"
+         id="text314" />
+      <text
+         class="link-label"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:normal;font-family:Arial;text-anchor:middle;fill:#ffffff"
+         dy="0.34999999em"
+         x="372.04178"
+         y="279.0788"
+         id="text316" />
+      <text
+         class="link-label"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:normal;font-family:Arial;text-anchor:middle;fill:#ffffff"
+         dy="0.34999999em"
+         x="323.62289"
+         y="271.33826"
+         id="text318" />
+      <text
+         class="link-label"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:normal;font-family:Arial;text-anchor:middle;fill:#ffffff"
+         dy="0.34999999em"
+         x="473.25879"
+         y="356.02383"
+         id="text320" />
+      <text
+         class="link-label"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:normal;font-family:Arial;text-anchor:middle;fill:#ffffff"
+         dy="0.34999999em"
+         x="398.66925"
+         y="391.44696"
+         id="text322" />
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="42.623314"
+     y="218.59158"
+     id="text791"><tspan
+       sodipodi:role="line"
+       id="tspan789"
+       x="42.623314"
+       y="218.59158"
+       style="font-size:16px">Île de la Fortune</tspan></text>
+</svg>
