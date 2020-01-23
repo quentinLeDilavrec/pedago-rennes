@@ -1,1 +1,338 @@
-<svg title="graph" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><style>circle {cursor: pointer;stroke-width: 1.5px;}text {font: 10px arial;}path {stroke: DimGrey;stroke-width: 1.5px;}</style><g><g class="links"><line stroke="hsl(25, 25%, 44%)" stroke-width="15px" x1="416.40385429081255" y1="336.409061900848" x2="387.2662991939107" y2="262.1825740640436"></line><line stroke="hsl(25, 25%, 44%)" stroke-width="15px" x1="491.904842977241" y1="240.31595380896871" x2="431.49791405027827" y2="182.47949335100006"></line><line stroke="hsl(25, 25%, 44%)" stroke-width="15px" x1="491.904842977241" y1="240.31595380896871" x2="515.8461655954384" y2="318.61060109092665"></line><line stroke="hsl(25, 25%, 44%)" stroke-width="15px" x1="288.038672143674" y1="279.59748572303835" x2="328.0462276567027" y2="204.91680272123065"></line><line stroke="hsl(25, 25%, 44%)" stroke-width="15px" x1="373.5003573251112" y1="410.8617417719339" x2="416.40385429081255" y2="336.409061900848"></line><line stroke="hsl(25, 25%, 44%)" stroke-width="15px" x1="373.5003573251112" y1="410.8617417719339" x2="460.3113788988918" y2="404.6571367955763"></line><line stroke="hsl(25, 25%, 44%)" stroke-width="15px" x1="307.17459229593345" y1="359.9767521226006" x2="288.038672143674" y2="279.59748572303835"></line><line stroke="hsl(25, 25%, 44%)" stroke-width="15px" x1="307.17459229593345" y1="359.9767521226006" x2="373.5003573251112" y2="410.8617417719339"></line><line stroke="hsl(25, 25%, 44%)" stroke-width="15px" x1="387.2662991939107" y1="262.1825740640436" x2="328.0462276567027" y2="204.91680272123065"></line></g><g class="nodes"><g style="transform-origin: center center 0px;" transform="translate(307.17459229593345,359.9767521226006)"><image xlink:href="../images/plage.svg" x="-40" y="-40" height="80" width="80" transform="scale(1,1)"></image></g><g style="transform-origin: center center 0px;" transform="translate(373.5003573251112,410.8617417719339)"><image xlink:href="../images/palmier.svg" x="-40" y="-40" height="80" width="80" transform="scale(1,1)"></image></g><g style="transform-origin: center center 0px;" transform="translate(416.40385429081255,336.409061900848)"><image xlink:href="../images/cabane_peche.svg" x="-40" y="-40" height="80" width="80" transform="scale(1,1)"></image></g><g style="transform-origin: center center 0px;" transform="translate(387.2662991939107,262.1825740640436)"><image xlink:href="../images/volcan.svg" x="-40" y="-40" height="80" width="80" transform="scale(1,1)"></image></g><g style="transform-origin: center center 0px;" transform="translate(328.0462276567027,204.91680272123065)"><image xlink:href="../images/grotte.svg" x="-40" y="-40" height="80" width="80" transform="scale(-1,1)"></image></g><g style="transform-origin: center center 0px;" transform="translate(288.038672143674,279.59748572303835)"><image xlink:href="../images/lac.svg" x="-40" y="-40" height="80" width="80" transform="scale(-1,1)"></image></g><g style="transform-origin: center center 0px;" transform="translate(460.3113788988918,404.6571367955763)"><image xlink:href="../images/riviere.svg" x="-40" y="-40" height="80" width="80" transform="scale(1,1)"></image></g><g style="transform-origin: center center 0px;" transform="translate(491.904842977241,240.31595380896871)"><image xlink:href="../images/crique.svg" x="-40" y="-40" height="80" width="80" transform="scale(-1,1)"></image></g><g style="transform-origin: center center 0px;" transform="translate(515.8461655954384,318.61060109092665)"><image xlink:href="../images/sapin.svg" x="-40" y="-40" height="80" width="80" transform="scale(-1,1)"></image></g><g style="transform-origin: center center 0px;" transform="translate(431.49791405027827,182.47949335100006)"><image xlink:href="../images/cabane_chasse.svg" x="-40" y="-40" height="80" width="80" transform="scale(-1,1)"></image></g></g><g class="labels"><text class="link-label" font-family="Arial, Helvetica, sans-serif" fill="White" style="font: bold 14px Arial;" dy=".35em" text-anchor="middle" x="401.8350767423616" y="299.2958179824458"></text><text class="link-label" font-family="Arial, Helvetica, sans-serif" fill="White" style="font: bold 14px Arial;" dy=".35em" text-anchor="middle" x="461.70137851375966" y="211.3977235799844"></text><text class="link-label" font-family="Arial, Helvetica, sans-serif" fill="White" style="font: bold 14px Arial;" dy=".35em" text-anchor="middle" x="503.8755042863397" y="279.46327744994767"></text><text class="link-label" font-family="Arial, Helvetica, sans-serif" fill="White" style="font: bold 14px Arial;" dy=".35em" text-anchor="middle" x="308.04244990018833" y="242.2571442221345"></text><text class="link-label" font-family="Arial, Helvetica, sans-serif" fill="White" style="font: bold 14px Arial;" dy=".35em" text-anchor="middle" x="394.95210580796186" y="373.63540183639094"></text><text class="link-label" font-family="Arial, Helvetica, sans-serif" fill="White" style="font: bold 14px Arial;" dy=".35em" text-anchor="middle" x="416.9058681120015" y="407.7594392837551"></text><text class="link-label" font-family="Arial, Helvetica, sans-serif" fill="White" style="font: bold 14px Arial;" dy=".35em" text-anchor="middle" x="297.6066322198037" y="319.78711892281945"></text><text class="link-label" font-family="Arial, Helvetica, sans-serif" fill="White" style="font: bold 14px Arial;" dy=".35em" text-anchor="middle" x="340.33747481052234" y="385.41924694726725"></text><text class="link-label" font-family="Arial, Helvetica, sans-serif" fill="White" style="font: bold 14px Arial;" dy=".35em" text-anchor="middle" x="357.6562634253067" y="233.5496883926371"></text></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   title="graph"
+   version="1.1"
+   id="svg6324"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="oiseaux-rapides.svg"
+   width="307.8075"
+   height="325.40912">
+  <metadata
+     id="metadata6416">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6414" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1303"
+     inkscape:window-height="744"
+     id="namedview6412"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.18"
+     inkscape:cx="93.686766"
+     inkscape:cy="114.20682"
+     inkscape:window-x="63"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6324" />
+  <style
+     id="style6326">circle {cursor: pointer;stroke-width: 1.5px;}text {font: 10px arial;}path {stroke: DimGrey;stroke-width: 1.5px;}</style>
+  <g
+     id="g6328"
+     transform="translate(-248.03867,-142.47949)">
+    <g
+       class="links"
+       id="g6330">
+      <line
+         x1="416.40384"
+         y1="336.40906"
+         x2="387.2663"
+         y2="262.18259"
+         id="line6332"
+         style="stroke:#8c6b54;stroke-width:15px" />
+      <line
+         x1="491.90485"
+         y1="240.31595"
+         x2="431.49792"
+         y2="182.47949"
+         id="line6334"
+         style="stroke:#8c6b54;stroke-width:15px" />
+      <line
+         x1="491.90485"
+         y1="240.31595"
+         x2="515.84619"
+         y2="318.6106"
+         id="line6336"
+         style="stroke:#8c6b54;stroke-width:15px" />
+      <line
+         x1="288.03867"
+         y1="279.59747"
+         x2="328.04623"
+         y2="204.91681"
+         id="line6338"
+         style="stroke:#8c6b54;stroke-width:15px" />
+      <line
+         x1="373.50037"
+         y1="410.86176"
+         x2="416.40384"
+         y2="336.40906"
+         id="line6340"
+         style="stroke:#8c6b54;stroke-width:15px" />
+      <line
+         x1="373.50037"
+         y1="410.86176"
+         x2="460.31137"
+         y2="404.65714"
+         id="line6342"
+         style="stroke:#8c6b54;stroke-width:15px" />
+      <line
+         x1="307.17459"
+         y1="359.97675"
+         x2="288.03867"
+         y2="279.59747"
+         id="line6344"
+         style="stroke:#8c6b54;stroke-width:15px" />
+      <line
+         x1="307.17459"
+         y1="359.97675"
+         x2="373.50037"
+         y2="410.86176"
+         id="line6346"
+         style="stroke:#8c6b54;stroke-width:15px" />
+      <line
+         x1="387.2663"
+         y1="262.18259"
+         x2="328.04623"
+         y2="204.91681"
+         id="line6348"
+         style="stroke:#8c6b54;stroke-width:15px" />
+    </g>
+    <g
+       class="nodes"
+       id="g6350">
+      <g
+         transform="translate(307.17459,359.97675)"
+         id="g6352">
+        <image
+           sodipodi:absref="/home/julie/Documents/Cours/M2/pedago/pedago-rennes/pedago2/2019-model_verif/iles/svgs/verification_et-mod/../images/plage.svg"
+           xlink:href="../images/plage.svg"
+           id="image6354"
+           width="80"
+           height="80"
+           y="-40"
+           x="-40" />
+      </g>
+      <g
+         transform="translate(373.50036,410.86174)"
+         id="g6356">
+        <image
+           sodipodi:absref="/home/julie/Documents/Cours/M2/pedago/pedago-rennes/pedago2/2019-model_verif/iles/svgs/verification_et-mod/../images/palmier.svg"
+           xlink:href="../images/palmier.svg"
+           id="image6358"
+           width="80"
+           height="80"
+           y="-40"
+           x="-40" />
+      </g>
+      <g
+         transform="translate(416.40385,336.40906)"
+         id="g6360">
+        <image
+           sodipodi:absref="/home/julie/Documents/Cours/M2/pedago/pedago-rennes/pedago2/2019-model_verif/iles/svgs/verification_et-mod/../images/cabane_peche.svg"
+           xlink:href="../images/cabane_peche.svg"
+           id="image6362"
+           width="80"
+           height="80"
+           y="-40"
+           x="-40" />
+      </g>
+      <g
+         transform="translate(387.2663,262.18257)"
+         id="g6364">
+        <image
+           sodipodi:absref="/home/julie/Documents/Cours/M2/pedago/pedago-rennes/pedago2/2019-model_verif/iles/svgs/verification_et-mod/../images/volcan.svg"
+           xlink:href="../images/volcan.svg"
+           id="image6366"
+           width="80"
+           height="80"
+           y="-40"
+           x="-40" />
+      </g>
+      <g
+         transform="translate(328.04623,204.9168)"
+         id="g6368">
+        <image
+           sodipodi:absref="/home/julie/Documents/Cours/M2/pedago/pedago-rennes/pedago2/2019-model_verif/iles/svgs/verification_et-mod/../images/grotte.svg"
+           xlink:href="../images/grotte.svg"
+           id="image6370"
+           transform="scale(-1,1)"
+           width="80"
+           height="80"
+           y="-40"
+           x="-40" />
+      </g>
+      <g
+         transform="translate(288.03867,279.59749)"
+         id="g6372">
+        <image
+           sodipodi:absref="/home/julie/Documents/Cours/M2/pedago/pedago-rennes/pedago2/2019-model_verif/iles/svgs/verification_et-mod/../images/lac.svg"
+           xlink:href="../images/lac.svg"
+           id="image6374"
+           transform="scale(-1,1)"
+           width="80"
+           height="80"
+           y="-40"
+           x="-40" />
+      </g>
+      <g
+         transform="translate(460.31138,404.65714)"
+         id="g6376">
+        <image
+           sodipodi:absref="/home/julie/Documents/Cours/M2/pedago/pedago-rennes/pedago2/2019-model_verif/iles/svgs/verification_et-mod/../images/riviere.svg"
+           xlink:href="../images/riviere.svg"
+           id="image6378"
+           width="80"
+           height="80"
+           y="-40"
+           x="-40" />
+      </g>
+      <g
+         transform="translate(491.90484,240.31595)"
+         id="g6380">
+        <image
+           sodipodi:absref="/home/julie/Documents/Cours/M2/pedago/pedago-rennes/pedago2/2019-model_verif/iles/svgs/verification_et-mod/../images/crique.svg"
+           xlink:href="../images/crique.svg"
+           id="image6382"
+           transform="scale(-1,1)"
+           width="80"
+           height="80"
+           y="-40"
+           x="-40" />
+      </g>
+      <g
+         transform="translate(515.84617,318.6106)"
+         id="g6384">
+        <image
+           sodipodi:absref="/home/julie/Documents/Cours/M2/pedago/pedago-rennes/pedago2/2019-model_verif/iles/svgs/verification_et-mod/../images/sapin.svg"
+           xlink:href="../images/sapin.svg"
+           id="image6386"
+           transform="scale(-1,1)"
+           width="80"
+           height="80"
+           y="-40"
+           x="-40" />
+      </g>
+      <g
+         transform="translate(431.49791,182.47949)"
+         id="g6388">
+        <image
+           sodipodi:absref="/home/julie/Documents/Cours/M2/pedago/pedago-rennes/pedago2/2019-model_verif/iles/svgs/verification_et-mod/../images/cabane_chasse.svg"
+           xlink:href="../images/cabane_chasse.svg"
+           id="image6390"
+           transform="scale(-1,1)"
+           width="80"
+           height="80"
+           y="-40"
+           x="-40" />
+      </g>
+    </g>
+    <g
+       class="labels"
+       id="g6392">
+      <text
+         class="link-label"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:normal;font-family:Arial;text-anchor:middle;fill:#ffffff"
+         dy="299.29581"
+         x="401.83508"
+         y="299.29581"
+         id="text6394" />
+      <text
+         class="link-label"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:normal;font-family:Arial;text-anchor:middle;fill:#ffffff"
+         dy="211.39772"
+         x="461.70139"
+         y="211.39772"
+         id="text6396" />
+      <text
+         class="link-label"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:normal;font-family:Arial;text-anchor:middle;fill:#ffffff"
+         dy="279.46329"
+         x="503.87552"
+         y="279.46329"
+         id="text6398" />
+      <text
+         class="link-label"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:normal;font-family:Arial;text-anchor:middle;fill:#ffffff"
+         dy="242.25714"
+         x="308.04245"
+         y="242.25714"
+         id="text6400" />
+      <text
+         class="link-label"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:normal;font-family:Arial;text-anchor:middle;fill:#ffffff"
+         dy="373.63541"
+         x="394.95212"
+         y="373.63541"
+         id="text6402" />
+      <text
+         class="link-label"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:normal;font-family:Arial;text-anchor:middle;fill:#ffffff"
+         dy="407.75943"
+         x="416.90585"
+         y="407.75943"
+         id="text6404" />
+      <text
+         class="link-label"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:normal;font-family:Arial;text-anchor:middle;fill:#ffffff"
+         dy="319.78711"
+         x="297.60663"
+         y="319.78711"
+         id="text6406" />
+      <text
+         class="link-label"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:normal;font-family:Arial;text-anchor:middle;fill:#ffffff"
+         dy="385.41925"
+         x="340.33746"
+         y="385.41925"
+         id="text6408" />
+      <text
+         class="link-label"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:normal;font-family:Arial;text-anchor:middle;fill:#ffffff"
+         dy="233.54968"
+         x="357.65625"
+         y="233.54968"
+         id="text6410" />
+    </g>
+  </g>
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot6672"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="translate(82.20339,-8.4745763)"><flowRegion
+       id="flowRegion6674"><rect
+         id="rect6676"
+         width="305.08475"
+         height="44.915253"
+         x="5.9322033"
+         y="316.00937"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial" /></flowRegion><flowPara
+       id="flowPara6678"
+       style="font-size:15px">Ile des oiseaux rapides</flowPara></flowRoot></svg>
